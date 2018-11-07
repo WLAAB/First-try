@@ -1,2 +1,2 @@
 # First-try
-Testar den first git
+First try to see how it works
